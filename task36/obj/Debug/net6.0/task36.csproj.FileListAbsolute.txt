@@ -1,0 +1,15 @@
+D:\Evgeny\HW5\task36\bin\Debug\net6.0\task36.exe
+D:\Evgeny\HW5\task36\bin\Debug\net6.0\task36.deps.json
+D:\Evgeny\HW5\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+D:\Evgeny\HW5\task36\bin\Debug\net6.0\task36.dll
+D:\Evgeny\HW5\task36\bin\Debug\net6.0\task36.pdb
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.dll
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\refint\task36.dll
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.pdb
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+D:\Evgeny\HW5\task36\obj\Debug\net6.0\ref\task36.dll
